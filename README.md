@@ -8,7 +8,6 @@ Difficulty Levels: Different levels are available, allowing players to choose th
 
 Image-Based Feedback: Visual cues such as images for correct and incorrect answers add a playful element to the game.
 
-Timer and Speed Options: Players can choose different timer speeds, adjusting the time allowed to answer each question for varying levels of challenge.
 
 Reset Functionality: Players can reset the game to start a new round with a fresh set of questions.
 
