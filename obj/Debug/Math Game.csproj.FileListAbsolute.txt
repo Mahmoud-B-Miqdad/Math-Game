@@ -1,0 +1,14 @@
+C:\Users\Mahmoud-B-Meqdad\source\repos\Math Game\bin\Debug\Math Game.exe.config
+C:\Users\Mahmoud-B-Meqdad\source\repos\Math Game\bin\Debug\Math Game.exe
+C:\Users\Mahmoud-B-Meqdad\source\repos\Math Game\bin\Debug\Math Game.pdb
+C:\Users\Mahmoud-B-Meqdad\source\repos\Math Game\obj\Debug\Math Game.csproj.AssemblyReference.cache
+C:\Users\Mahmoud-B-Meqdad\source\repos\Math Game\obj\Debug\Math_Game.Properties.Resources.resources
+C:\Users\Mahmoud-B-Meqdad\source\repos\Math Game\obj\Debug\Math Game.csproj.GenerateResource.cache
+C:\Users\Mahmoud-B-Meqdad\source\repos\Math Game\obj\Debug\Math Game.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud-B-Meqdad\source\repos\Math Game\obj\Debug\Math Game.exe
+C:\Users\Mahmoud-B-Meqdad\source\repos\Math Game\obj\Debug\Math Game.pdb
+C:\Users\Mahmoud-B-Meqdad\source\repos\Math Game\obj\Debug\Math_Game.frmMathGame.resources
+C:\Users\Mahmoud-B-Meqdad\source\repos\Math Game\obj\Debug\Math_Game.frmStartGame.resources
+C:\Users\Mahmoud-B-Meqdad\source\repos\Math Game\obj\Debug\Math_Game.frmResult.resources
+C:\Users\Mahmoud-B-Meqdad\source\repos\Math Game\bin\Debug\Guna.UI2.dll
+C:\Users\Mahmoud-B-Meqdad\source\repos\Math Game\obj\Debug\Math Game.csproj.Up2Date
